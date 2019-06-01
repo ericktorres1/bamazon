@@ -29,6 +29,7 @@ Once the update goes through, show the customer the total cost of their purchase
 
 ## Instructions to execute
 * npm install 
+* npm install inquirer
 * npm install console.table
 * npm install mysql
 
