@@ -28,11 +28,11 @@ This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
 
 ## Instructions to execute
--npm install 
--npm install console.table
--npm install mysql
+* npm install 
+* npm install console.table
+* npm install mysql
 
--to run appliation node bamazonCustomer
+* to run appliation node bamazonCustomer
 
 ## Screenshots
 ![alt text](https://i.ibb.co/Xsg1xvP/Screen-Shot-2019-05-31-at-7-43-20-PM.png)
