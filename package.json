@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon like store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "node bamazonCustomer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericktorres1/bamazon.git"
+  },
+  "author": "Erick Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericktorres1/bamazon/issues"
+  },
+  "homepage": "https://github.com/ericktorres1/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "mysql": "^2.17.1"
+  }
+}
