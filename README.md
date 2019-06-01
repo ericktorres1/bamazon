@@ -28,5 +28,5 @@ This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
 
 ## Screenshots
-https://i.ibb.co/Xsg1xvP/Screen-Shot-2019-05-31-at-7-43-20-PM.png
+![alt text] https://i.ibb.co/Xsg1xvP/Screen-Shot-2019-05-31-at-7-43-20-PM.png
 
